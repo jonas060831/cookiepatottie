@@ -38,6 +38,7 @@ const resetScoreAfter100 = () => {
 
     if (score > 100) {
         alert('wow you are such a cookie patootie clicker score will now reset')
+        
         score = 0
         scoreH4.innerText = `Score: ${score}`
     }
