@@ -7,8 +7,11 @@ i name my coockie clicker cookie patootie
 pick josefin slab from google font for the score text
 pick rametto one for the title header cookie patootie
 now i will code the functionalities
-created an github 
+created a github 
 git clone it
+cd in to the project and
+then change the branch to master by typing git checkout -b master
+
 then touch index.html && mkdir css js
 touch css/style.css && touch js/app.js
 code .
